@@ -20,6 +20,8 @@ Heap Sort - Quinn
 Best Case: n(log n)
 Average Case: n(log n)
 Worst Case: n(log n)
+
+
 <img width="478" alt="Screenshot 2024-12-23 at 7 42 51 PM" src="https://github.com/user-attachments/assets/b81f75da-3fcf-4ce1-9ad6-c63d0047f0b3" />
 
 # Reflection
