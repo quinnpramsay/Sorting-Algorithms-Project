@@ -1,0 +1,15 @@
+Sorting Project Final Report
+Quinn Ramsay
+10/4/24
+Adv Data Structures/Algo Dev
+Professor Williams
+
+My portion of the project was developing the quick sort function and the heap sort function when it came to the quick sort part, which was a straightforward task. This is because we had done a quicksort algorithm in the most recent lab so I had to spend my time making sure that quicksort was as efficient as possible but overall it was just about running our new arrays through that previous code. The heap sort function is what confused me entirely. I spent a very long time trying to decipher the pseudocode from the textbook but the child portion and every other portion of the code made absolutely no sense to me. After the partial code from Alexa was posted I compared that code with the pseudo code to try and get more of an understanding of how that code worked. After that, I watched some lectures and explanation videos from other universities and got a decent understanding of it. I began to understand how heap sort worked but not much about how to code it. So I went on and used the pseudo code with little help from Alexa’s code to make my code work and from my understanding, it does work. 
+
+When it comes to the group portion of the project I feel as though things went well. We all handled our portions of the project and met at the given meeting times. There were some struggles but that is apparent when working in groups on a project of this size. I feel we did a good job working together and Matthew and I did a good job of keeping the group in conversation and meeting. I spent most of the beginning time getting all of our work sorted as to who is doing what and getting us going as that is sometimes the hardest part. After I made sure everyone started and understood the assignments at hand we had 2 group meetings planned by Matthew that everyone attended. 
+
+	Overall I think this group project was a good learning experience. I feel that learning heap sort and the massive advantages that come from even the basic understanding I have of the code helps me be ahead.  And when it comes to group work I feel that knowing how to interact and work in a group is the cornerstone to the future job market and is something that needs to be practiced more. 
+
+
+
+
