@@ -18,7 +18,9 @@ Heap Sort - Quinn
 
 # Heap Sort Efficencies
 Best Case: n(log n)
+
 Average Case: n(log n)
+
 Worst Case: n(log n)
 
 
