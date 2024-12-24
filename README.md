@@ -3,11 +3,17 @@
 
 # Delegation 
 Bubble Sort - Crawford 
+
 Quick Sort - Quinn 
+
 Exchange Sort - Crawford
+
 Insertion Sort - JT
+
 Selection Sort - Matthew
+
 Merge Sort - Ty
+
 Heap Sort - Quinn
 
 # Quick Sort
