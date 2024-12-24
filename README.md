@@ -43,7 +43,7 @@ Worst Case: n(log n)
 <img width="478" alt="Screenshot 2024-12-23 at 7 42 51 PM" src="https://github.com/user-attachments/assets/b81f75da-3fcf-4ce1-9ad6-c63d0047f0b3" />
 
 # Efficiency Data with Randomly Sorted Data
-Time to complete:   
+# Time to complete:   
 
 Selection sort: 1,215
 
@@ -59,7 +59,7 @@ Quicksort: 93
 
 Heapsort: 121
 
-Number of compares:
+# Number of compares:
 
 Selection sort: 499,500
 
@@ -75,7 +75,7 @@ Quicksort: 11,305
 
 Heapsort: 8,113
 
-Number of swaps:
+# Number of swaps:
 
 Selection sort: 990
 
