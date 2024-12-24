@@ -91,6 +91,19 @@ Quicksort: 6,050
 
 Heapsort: 122
 
+# Final Data Overview
+Almost-Sorted: Heap Sort was the fastest at 98 microseconds, Insertion Sort had the least compares at 3,633, and Selection Sort had the least swaps at 97
+
+Unsorted: Heap Sort was the fastest at 119 microseconds, Quick Sort had the least compares at 11,738, and Selection Sort had the least swaps at 990
+
+Reverse-Sorted: Heap Sort was the fastest at 96 microseconds, Heap Sort had the least compares at 15,982, and Selection Sort had the least swaps at 500
+
+Many Duplicates: Heap Sort was the fastest at 88 microseconds, Heap Sort had the least compares at 14,326, and Selection Sort had the least swaps at 792
+
+Overall, Heap Sort was the fastest for sorting
+and Selection Sort utilized the least amount of swaps.
+
+
 
 # Reflection
   This project was my first ever group coding project. I feel that this taught me valuable lessons in team work within the coding industry. Beiing able to cordinate not only delegation of the project details, but also set meeting times to work on the project is an invaluable skill to learn early. Also something that was very new for me was the collaboration between parts of the project. Every team member not only pulled their own weight but also helped eachother building the code and working cohesively to finish the project. 
